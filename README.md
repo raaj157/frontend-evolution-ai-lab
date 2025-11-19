@@ -23,8 +23,6 @@ project-name/
 - v2-ai/ → AI-improved version
 - v3-ai-alt/ → Optional: alternate AI version
 
-makefile
-Copy code
 
 **Example:**
 
