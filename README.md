@@ -19,9 +19,9 @@ This repository tracks how code evolves from human-written to AI-refactored.
 ## Structure
 
 project-name/
-v1-human/ → Original human-written version
-v2-ai/ → AI-improved version
-v3-ai-alt/ → Optional: alternate AI version
+- v1-human/ → Original human-written version
+- v2-ai/ → AI-improved version
+- v3-ai-alt/ → Optional: alternate AI version
 
 makefile
 Copy code
@@ -29,9 +29,9 @@ Copy code
 **Example:**
 
 smart-form-validation/
-v1-human/
-v2-ai-gpt/
-v3-ai-claude/
+- v1-human/
+- v2-ai-gpt/
+- v3-ai-claude/
 
 
 ---
